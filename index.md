@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## CompuRay with HoloLens
 
-You can use the [editor on GitHub](https://github.com/KushalBKusram/CompuRay/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CompuRay augments the experience involved during troubleshooting or upgrading of a traditional desktop computer. This project makes use of Microsoft HoloLens, the AR device recognizes various components of the computer and the results are spatial mapped to the real-world through HoloLens. The HoloLens was trained to recognize the following components of a computer cabinet: CPU, Drive Bay, SMPS, GPU, RAM and PCI Slots. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Requirements: 
+HoloLens (1st Gen), Visual Studio 2017, Unity 2018.4, HoloToolKit. 
 
-### Markdown
+The interface provided for a user to interact with HoloLens is through voice commands, except during the phase of analysis. The advantage of voice commands over traditional HoloLens recognizable gestures includes handsfree control along with a more natural UI and almost a zero-learning curve in order to operate the device.
+You can refer to our official blog [CompuRay with HoloLens](https://compuray.home.blog) for a detailed documentation. This repo mainly provides you with code, which might be helpful for you to build something upon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KushalBKusram/CompuRay/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A demo of this project can be viewed here: [CompuRay Demo](https://youtu.be/kPMvuo2RQSU)
