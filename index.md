@@ -9,3 +9,5 @@ The interface provided for a user to interact with HoloLens is through voice com
 You can refer to our official blog [CompuRay with HoloLens](https://compuray.home.blog) for a detailed documentation. This repo mainly provides you with code, which might be helpful for you to build something upon.
 
 A demo of this project can be viewed here: [CompuRay Demo](https://youtu.be/kPMvuo2RQSU)
+
+A few of the files due to size restrictions may have issues, you may reach out to me [Kushal B Kusram](https://twitter.com/KushalBKusram)
