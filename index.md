@@ -10,4 +10,4 @@ You can refer to our official blog [CompuRay with HoloLens](https://compuray.hom
 
 A demo of this project can be viewed here: [CompuRay Demo](https://youtu.be/kPMvuo2RQSU)
 
-A few of the files due to size restrictions may have issues, you may reach out to me [Kushal B Kusram](https://twitter.com/KushalBKusram)
+A few of the files due to size restrictions may have issues, you may reach out to me on [Twitter](https://twitter.com/KushalBKusram)
