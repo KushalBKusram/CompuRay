@@ -1,6 +1,6 @@
 ## CompuRay with HoloLens
 
-CompuRay augments the experience involved during troubleshooting or upgrading of a traditional desktop computer. This project makes use of Microsoft HoloLens, the AR device recognizes various components of the computer and the results are spatial mapped to the real-world through HoloLens. The HoloLens was trained to recognize the following components of a computer cabinet: CPU, Drive Bay, SMPS, GPU, RAM and PCI Slots. 
+CompuRay augments the experience involved during troubleshooting or upgrading of a traditional desktop computer. This project makes use of Microsoft HoloLens, the AR device recognizes various components of the computer and the results are spatial mapped to the real-world through HoloLens. HoloLens was trained to recognize the following components of a computer cabinet: CPU, Drive Bay, SMPS, GPU, RAM and PCI Slots. 
 
 Requirements: 
 HoloLens (1st Gen), Visual Studio 2017, Unity 2018.4, HoloToolKit. 
