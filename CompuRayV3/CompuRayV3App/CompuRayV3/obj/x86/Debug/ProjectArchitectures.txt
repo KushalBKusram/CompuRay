@@ -1,2 +1,0 @@
-C:\Users\alien\Desktop\CompuRay\CompuRayV3\CompuRayV3App\CompuRayV3\CompuRayV3.csproj;x86
-C:\Users\alien\Desktop\CompuRay\CompuRayV3\CompuRayV3App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
