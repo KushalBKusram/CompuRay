@@ -14,12 +14,12 @@ public class CustomVisionAnalyser : MonoBehaviour {
     /// <summary>
     /// Insert your prediction key here
     /// </summary>
-    private string predictionKey = "2e8ec32308b748959acd9fcf1bf52f1c";
+    private string predictionKey = " "; //Azure Custom Computer Vision Key
 
     /// <summary>
     /// Insert your prediction endpoint here
     /// </summary>
-    private string predictionEndpoint = "https://southcentralus.api.cognitive.microsoft.com/customvision/v2.0/Prediction/54550812-16bd-452e-bfcf-5841b8f428a8/image";
+    private string predictionEndpoint = " "; //Azure Custom Computer Vision URL
 
     /// <summary>
     /// Bite array of the image to submit for analysis
