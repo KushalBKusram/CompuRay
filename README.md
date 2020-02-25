@@ -15,4 +15,4 @@ HoloLens (1st Gen), Visual Studio 2017, Unity 2017.x, HoloToolKit 2017 (note: no
 
 ### Usage
 Repo consists a Unity project directory.
-Clone this repo and point Unity to this repo. Unity should import all the assets into a project for you. However, you still need to set up Unity for HoloLens application development. 
+Clone this repo and point Unity to this repo. Unity should import all the assets into a project for you. However, you will still need to set up Unity for HoloLens application development.
